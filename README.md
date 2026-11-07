@@ -1,5 +1,7 @@
 # 📚 Kitob Do'koni — Standalone MVP Versiyasi
 
+https://bookstoreprototype.netlify.app
+
 > **Soya va yorug'lik orasidagi hayot** — Narkotik moddalarga qarshi ogohlik, yoshlar va oilalarni asrash bo'yicha mualliflik kitobi ko'rgazmasi, onlayn buyurtma va administrator boshqaruv paneli.  
 > Ushbu versiya loyihaning **Mustaqil (Standalone) Frontend MVP** talqini bo'lib, Docker, Java yoki PostgreSQL talab qilmaydi. Barcha ma'lumotlar brauzer xotirasida (**localStorage**) xavfsiz va real vaqtda saqlanadi.
 
